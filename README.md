@@ -1,7 +1,7 @@
 ### ![tunisiaparrot](https://user-images.githubusercontent.com/69204725/183558814-bae3debe-5956-4c9f-b50d-c1f2f7fe16e0.gif) Software engineer - DevOps
 
 
-<!--![vueparrot](https://user-images.githubusercontent.com/69204725/183559586-1778a4fd-9b52-4bc6-a26f-03971b8e1ec5.gif)
+![vueparrot](https://user-images.githubusercontent.com/69204725/183559586-1778a4fd-9b52-4bc6-a26f-03971b8e1ec5.gif)
 ![birthdaypartyparrot](https://user-images.githubusercontent.com/69204725/183559589-9a2f20e2-6f4b-4efa-8481-36dbc122cc29.gif)
 ![bobaparrot](https://user-images.githubusercontent.com/69204725/183559592-4127697f-1ec2-41a8-818b-4c7160670ae7.gif)
 ![christmasparrot](https://user-images.githubusercontent.com/69204725/183559593-5cf03842-edcf-46c9-b944-41414ce05994.gif)
@@ -10,7 +10,7 @@
 ![headsetparrot](https://user-images.githubusercontent.com/69204725/183559599-e10543cc-8fbd-4a70-997c-4d6303bec68a.gif)
 ![kindasusparrot](https://user-images.githubusercontent.com/69204725/183559603-2d7e5f1b-e264-4ad7-8ef0-d2b8d39b0962.gif)
 ![reactparrot](https://user-images.githubusercontent.com/69204725/183559604-a6de7de8-7c97-4898-a0bc-27f8abd62f30.gif)
-
+<!--
 **ahmedmlaouhia/ahmedmlaouhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
