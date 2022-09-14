@@ -1,8 +1,6 @@
 ### ![tunisiaparrot](https://user-images.githubusercontent.com/69204725/183558814-bae3debe-5956-4c9f-b50d-c1f2f7fe16e0.gif) Software engineer - DevOps ![ceilingparrot](https://user-images.githubusercontent.com/69204725/185243048-34346310-d6c9-4767-b9cf-855277269d58.gif)
 
 
-![fiestaparrot](https://user-images.githubusercontent.com/69204725/183559901-82b644ff-9f6c-431e-8300-658161c792ac.gif)
-![icecreamparrot](https://user-images.githubusercontent.com/69204725/183559903-c379c74c-8d43-4fe1-86ef-04db7fb2f97d.gif)
 ![mergedparrot](https://user-images.githubusercontent.com/69204725/183559905-23b9f226-f625-464f-8f4d-4130d9142caa.gif)
 ![asyncparrot](https://user-images.githubusercontent.com/69204725/183559907-31894f09-c881-46c3-b283-49c66a8a9be5.gif)
 ![bananaparrot](https://user-images.githubusercontent.com/69204725/183559909-1503b667-6fea-4086-a39a-2b5c86c0c390.gif)
@@ -13,9 +11,6 @@
 ![dabparrot](https://user-images.githubusercontent.com/69204725/183559920-d45d010e-f695-4aa4-9eef-8d42f69346f9.gif)
 
 ![vueparrot](https://user-images.githubusercontent.com/69204725/183559586-1778a4fd-9b52-4bc6-a26f-03971b8e1ec5.gif)
-![birthdaypartyparrot](https://user-images.githubusercontent.com/69204725/183559589-9a2f20e2-6f4b-4efa-8481-36dbc122cc29.gif)
-![bobaparrot](https://user-images.githubusercontent.com/69204725/183559592-4127697f-1ec2-41a8-818b-4c7160670ae7.gif)
-![christmasparrot](https://user-images.githubusercontent.com/69204725/183559593-5cf03842-edcf-46c9-b944-41414ce05994.gif)
 ![dealwithitparrot](https://user-images.githubusercontent.com/69204725/183559596-44070668-f199-4295-ba3a-81ab93f40cca.gif)
 ![kindasusparrot](https://user-images.githubusercontent.com/69204725/183559603-2d7e5f1b-e264-4ad7-8ef0-d2b8d39b0962.gif)
 ![reactparrot](https://user-images.githubusercontent.com/69204725/183559604-a6de7de8-7c97-4898-a0bc-27f8abd62f30.gif)
