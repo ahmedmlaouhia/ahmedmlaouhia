@@ -1,9 +1,9 @@
-![tunisiaparrot](https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif) ![palestineparrot](https://cultofthepartyparrot.com/flags/hd/palestineparrot.gif) ![ceilingparrot](https://user-images.githubusercontent.com/69204725/185243048-34346310-d6c9-4767-b9cf-855277269d58.gif)
+![tunisiaparrot](https://cultofthepartyparrot.com/flags/hd/tunisiaparrot.gif) ![palestineparrot](https://cultofthepartyparrot.com/flags/hd/palestineparrot.gif) 
 
-### Software engineer - DevOps / SRE / Cloud / K8s ![mergedparrot](https://user-images.githubusercontent.com/69204725/183559905-23b9f226-f625-464f-8f4d-4130d9142caa.gif) ![dabparrot](https://user-images.githubusercontent.com/69204725/183559920-d45d010e-f695-4aa4-9eef-8d42f69346f9.gif)
-
-![dealwithitparrot](https://user-images.githubusercontent.com/69204725/183559596-44070668-f199-4295-ba3a-81ab93f40cca.gif)
-![reactparrot](https://user-images.githubusercontent.com/69204725/183559604-a6de7de8-7c97-4898-a0bc-27f8abd62f30.gif)
+## Software engineer - DevOps / SRE / Cloud / K8s ![mergedparrot](https://user-images.githubusercontent.com/69204725/183559905-23b9f226-f625-464f-8f4d-4130d9142caa.gif) ![dabparrot](https://user-images.githubusercontent.com/69204725/183559920-d45d010e-f695-4aa4-9eef-8d42f69346f9.gif) ![deploy](https://cultofthepartyparrot.com/parrots/deployparrot.gif) 
+\
+\
+![ceilingparrot](https://user-images.githubusercontent.com/69204725/185243048-34346310-d6c9-4767-b9cf-855277269d58.gif) ![cat](https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif) ![linux](https://cultofthepartyparrot.com/guests/hd/partytux.gif) ![gofer](https://cultofthepartyparrot.com/guests/hd/partygopher.gif) ![redhat](https://cultofthepartyparrot.com//parrots/hd/redhatparrot.gif) 
 
 <!--
 **ahmedmlaouhia/ahmedmlaouhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
